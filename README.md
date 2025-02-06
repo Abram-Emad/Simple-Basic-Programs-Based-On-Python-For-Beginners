@@ -20,7 +20,7 @@ A collection of simple, beginner-friendly Python programs to help new learners g
 
 ## Project Description 📝
 
-This repository is designed for Python beginners who want to learn programming fundamentals through practical examples. Each program focuses on a specific concept (e.g., variables, loops, functions) and is written in a clear, well-commented style to enhance understanding. Whether you're new to coding or refreshing your skills, these examples provide a structured way to practice and experiment.
+This repository is designed for Python beginners who want to learn programming fundamentals through practical examples. Each program focuses on a specific concept (e.g., variables, loops, functions) and is written in a clear, well-commented style to enhance understanding. Whether you're new to coding or refreshing your skills, these examples provide a structured way to practice and experiment
 
 ---
 
